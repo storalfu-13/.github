@@ -1,8 +1,7 @@
-## Hola, soy Sebastian Toral Fuster
+# 👋 Hola, soy Sebastian Toral Fuster
 
-**Futuro Ingeniero en Ciencias de Datos e IA**  
-*Escuela Superior Politécnica del Litoral (ESPOL)*
-
+**Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial**  
+📍 *Escuela Superior Politécnica del Litoral (ESPOL) | Ecuador*
 
 
 ## Sobre mí
