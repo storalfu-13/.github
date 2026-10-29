@@ -10,3 +10,20 @@
 - 💡 **Metas a futuro:** Contribuir en proyectos Open Source de alto impacto y desempeñarme como científico de datos.
 - ⚡ **Intereses:** Robótica, Inteligencia Artificial, Desarrollo Full Stack y Manipulación de Datos con Python.
 
+## Habilidades y tecnologías
+
+### Lenguajes de Programación
+
+
+
+### Desarrollo Web Frontend
+
+
+
+
+### Bases de Datos y Análisis
+
+
+
+
+### Herramientas y Control de Versiones
