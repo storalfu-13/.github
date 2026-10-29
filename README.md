@@ -56,3 +56,9 @@
 - **Tecnologías:** Java, AndroidStudio, Arquitectura MVC y Diagramas UML.
 - **Funcionalidades:** Juego interactivo de buscar el par, Iniciar una técnica de estudio como Pomodoro o DeepWork, Registrar tus actividades diarias sostenibles, Tener un control de hidratación, viendo las estadísticas semanales.
 - **Enlaces:** [Ver Repositorio](https://github.com/DavMatPer/POO_01_G2_Android.git)
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sebastián-toral)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:storalfu@fiec.espol.edu.ec)
+
