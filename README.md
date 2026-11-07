@@ -62,7 +62,7 @@
 - **Problema que resuelve:** Permite a los usuarios a planificar tareas pendientes, implementar técnicas de estudio para sus sesiones académicas, ver su historial de actividades sostenibles y entrenar su mente con un juego interactivo de buscar el par correcto.
 - **Tecnologías:** Java, AndroidStudio, Arquitectura MVC y Diagramas UML.
 - **Funcionalidades:** Juego interactivo de buscar el par, temporizador de una técnica de estudio como Pomodoro o DeepWork, registro de actividades diarias sostenibles y control de hidratación por medio de estadísticas semanales.
-- **Enlaces:** [Ver Repositorio](https://github.com/DavMatPer/POO_01_G2_Android.git)
+- **Enlaces:** [Ver Repositorio](https://github.com/DavMatPer/POO-P1-G02.git)
 
 ## Contacto
 
